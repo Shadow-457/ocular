@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ocular
+GenericName=Image Viewer
+Comment=Simple, fast, minimal image viewer
+Exec=ocular %f
+Icon=ocular
+Terminal=false
+Type=Application
+Categories=Graphics;2DGraphics;RasterGraphics;Viewer;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/svg+xml;image/webp;
