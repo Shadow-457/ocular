@@ -21,7 +21,7 @@ A simple, fast, and minimal image viewer written in C and GTK+ 3 for Linux. Ocul
 To install system-wide so it appears in your application menu and can be launched from anywhere:
 
 ```bash
-chmod +x install .sh
+chmod +x install.sh
 sudo ./install.sh
 ```
 
