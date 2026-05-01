@@ -36,13 +36,7 @@ sudo gtk-update-icon-cache -f -t /usr/share/icons/hicolor
 sudo update-desktop-database /usr/share/applications
 ```
 
-## Usage
 
-```bash
-ocular                       # Opens the current directory
-ocular /path/to/image.jpg    # Opens a specific image and the surrounding directory
-ocular /path/to/folder       # Opens a specific directory
-```
 
 ## Keyboard Shortcuts
 
